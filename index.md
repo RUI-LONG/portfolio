@@ -6,7 +6,8 @@
 
 ## NLP Projects<br>
 
-### Briefly [網址](https://www.flyingcrazyer.com/briefly-beta)<br>
+### Briefly 
+[網址](https://www.flyingcrazyer.com/briefly-beta)<br>
 
 負責繁體中文自動摘要的開發與研究，並部屬該應用至AWS。<br>
 
@@ -17,7 +18,8 @@
 
 
 
-### Joberfly [網址](https://www.flyingcrazyer.com/briefly-beta)<br>
+### Joberfly 
+[網址](https://www.flyingcrazyer.com/briefly-beta)<br>
 
 負責建構涵蓋數千種職缺及數百種不同產業的主題模型，透過與語言學家、人資部門合作，<br>
 建構出履歷顧問文本生成的系統。<br>
@@ -27,7 +29,8 @@
 ---
 
 
-### EchoFly  [網址](https://www.flyingcrazyer.com/echofly-beta)<br>
+### EchoFly 
+[網址](https://www.flyingcrazyer.com/echofly-beta)<br>
 
 清理數百萬份華語履歷，並將從履歷構成中，分析出的數百種規則來評斷履歷的好壞。
 
@@ -49,6 +52,7 @@
 
 ![](https://i.imgur.com/16gRiId.jpg)
 
+{%youtube SlUd5C5utTQ %}
 
 ---
 
