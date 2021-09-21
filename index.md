@@ -6,8 +6,8 @@
 
 ## NLP Projects<br>
 
-### Briefly 
-[網址](https://www.flyingcrazyer.com/briefly-beta)<br>
+### Briefly <br>
+[Briefly](https://www.flyingcrazyer.com/briefly-beta)
 
 負責繁體中文自動摘要的開發與研究，並部屬該應用至AWS。<br>
 
@@ -18,8 +18,8 @@
 
 
 
-### Joberfly 
-[網址](https://www.flyingcrazyer.com/briefly-beta)<br>
+### Joberfly <br>
+[Joberfly](https://www.flyingcrazyer.com/briefly-beta)
 
 負責建構涵蓋數千種職缺及數百種不同產業的主題模型，透過與語言學家、人資部門合作，<br>
 建構出履歷顧問文本生成的系統。<br>
@@ -29,8 +29,8 @@
 ---
 
 
-### EchoFly 
-[網址](https://www.flyingcrazyer.com/echofly-beta)<br>
+### EchoFly <br>
+[EchoFly](https://www.flyingcrazyer.com/echofly-beta)
 
 清理數百萬份華語履歷，並將從履歷構成中，分析出的數百種規則來評斷履歷的好壞。
 
@@ -44,15 +44,16 @@
 ---
 
 
-### 9Dof IMU
+### 四足機械仿生獸
 
-負責開發四族機械仿生獸動作演算法。
+負責開發四足機械仿生獸動作演算法。
+
+[四足機械仿生獸](https://youtu.be/SlUd5C5utTQ)
 
 ![](https://i.imgur.com/KSWSMg8.jpg)
 
 ![](https://i.imgur.com/16gRiId.jpg)
 
-{%youtube SlUd5C5utTQ %}
 
 ---
 
@@ -69,6 +70,7 @@
 
 協助開發九軸IMU多功能感測器之演算法 (stm32)。
 
+[手勢控制小車](https://youtu.be/i4-qzTmbcxg)
 
 ---
 
