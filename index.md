@@ -135,7 +135,8 @@
 
 
 
-### 樹梅派復古遊戲街機 [網址](https://www.dcard.tw/f/handicrafts/p/228119219)<br>
+### 樹梅派復古遊戲街機  <br>
+[復古遊戲街機](https://www.dcard.tw/f/handicrafts/p/228119219)<br>
 
 從外殼設計製作到零件挑選，從零開始製作。<br>
 ![](https://i.imgur.com/qL39BQ0.jpg)
