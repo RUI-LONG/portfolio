@@ -77,6 +77,13 @@
 
 ## Computer Vision Projects<br>
 
+---
+
+
+### 人體手勢辨識與球之軌跡追蹤<br>
+[影片連結](https://youtu.be/7nLFnW4Xk6E)
+
+![](https://i.imgur.com/7zeEeHi.jpg)
 
 ---
 
