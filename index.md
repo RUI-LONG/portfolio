@@ -48,7 +48,8 @@
 
 負責開發四足機械仿生獸動作演算法。
 
-[四足機械仿生獸](https://youtu.be/SlUd5C5utTQ)
+[四足機械仿生獸-手勢辨識](https://youtu.be/q66Qkyj64FU)
+[四足機械仿生獸-動作](https://youtu.be/SlUd5C5utTQ)
 
 ![](https://i.imgur.com/KSWSMg8.jpg)
 
