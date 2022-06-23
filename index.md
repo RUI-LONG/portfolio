@@ -7,7 +7,6 @@
 ## NLP Projects<br>
 
 ### Briefly <br>
-[Briefly](https://www.flyingcrazyer.com/briefly-beta)
 
 負責繁體中文自動摘要的開發與研究，並部屬該應用至AWS。<br>
 
@@ -19,7 +18,6 @@
 
 
 ### Joberfly <br>
-[Joberfly](https://www.flyingcrazyer.com/briefly-beta)
 
 負責建構涵蓋數千種職缺及數百種不同產業的主題模型，透過與語言學家、人資部門合作，<br>
 建構出履歷顧問文本生成的系統。<br>
