@@ -28,7 +28,6 @@
 
 
 ### EchoFly <br>
-[EchoFly](https://www.flyingcrazyer.com/echofly-beta)
 
 清理數百萬份華語履歷，並將從履歷構成中，分析出的數百種規則來評斷履歷的好壞。
 
